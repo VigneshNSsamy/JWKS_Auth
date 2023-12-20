@@ -1,0 +1,14 @@
+{
+    "keys": [
+        {
+            "kty": "RSA",
+            "kid": "2023-12-20T06:33:17.865Z",
+            "use": "sig",
+            "nbf": 1703053997,
+            "exp": 1703057597,
+            "alg": "RS256",
+            "e": "AQAB",
+            "n": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1GuD12Ms2p/LqUUGdemf7HLhCMdG1BBWaQHdKX5F/AmD8kDfRJOVQiXtD7/Q2XUe23ktfL4rjWsXSc57cQKgua4oa4rvoEyrg0rxy13Y9JuwMIOr7GRP9m7hPG301XSKUl/4PhL9XNTiBZoh9ZrW7fO9GLEQyqIRXWxE4B4Ruy7Q/VzM6lDCsmrJPPJQhSKZYNgaSZo92YXTMXGWrXuLliX5Rx1DyxL837X9Y0idUEXOPF4ni1wi/9RC2zNgC5SdZhw37gAfwFtzWTFXkh5hIJmXOPe5O29lrxU58n2WU7orNvekcdGjtgJaVtLj35GTROiLeRiFoMg5GZ42u8H7gwIDAQAB"
+            }
+    ]
+}
